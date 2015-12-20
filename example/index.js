@@ -23,3 +23,6 @@ console.log(findValue(obj, "names.0.first"));
 
 console.log(findValue(obj, "names.1.age"));
 // => 20
+
+console.log(findValue(obj, "something.that.does.not.exist"));
+// => undefined
