@@ -36,7 +36,22 @@ console.log(findValue(obj, "names.0.first"));
 
 console.log(findValue(obj, "names.1.age"));
 // => 20
+
+console.log(findValue(obj, "something.that.does.not.exist"));
+// => undefined
 ```
+
+## Documentation
+
+### `findValue(obj, path)`
+Finds the value at given path in the specified object.
+
+#### Params
+- **Object** `obj`: The input object.
+- **String** `path`: The path to the value you want to find.
+
+#### Return
+- **Anything** The path value.
 
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
