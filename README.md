@@ -1,14 +1,18 @@
+
 # find-value [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/find-value.svg)](https://www.npmjs.com/package/find-value) [![Downloads](https://img.shields.io/npm/dt/find-value.svg)](https://www.npmjs.com/package/find-value) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Find object values by passing the path as string.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save find-value
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const findValue = require("find-value");
@@ -41,7 +45,8 @@ console.log(findValue(obj, "something.that.does.not.exist"));
 // => undefined
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `findValue(obj, path)`
 Finds the value at given path in the specified object.
@@ -53,13 +58,22 @@ Finds the value at given path in the specified object.
 #### Return
 - **Anything** The path value.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+
+ - [`arr-obj`](https://github.com/IonicaBizau/arr-obj#readme)—Convert arrays into objects by using unique fields.
+ - [`flow-api`](https://github.com/jillix/flow-api) (by jillix)—The flow api library and CLI app.
+ - [`lien`](https://github.com/LienJS/Lien)—Another lightweight NodeJS framework. Lien is the link between request and response objects.
+ - [`np-init`](https://github.com/IonicaBizau/np-init#readme)—Easily start a npm package from scratch.
+ - [`packy`](https://github.com/IonicaBizau/packy#readme)—Set default fields in your package.json files.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
