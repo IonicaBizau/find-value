@@ -1,6 +1,6 @@
 {
   "name": "find-value",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Find object values by passing the path as string.",
   "main": "lib/index.js",
   "directories": {
@@ -24,5 +24,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/find-value/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/find-value#readme"
+  "homepage": "https://github.com/IonicaBizau/find-value#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
