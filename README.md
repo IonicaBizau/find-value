@@ -1,5 +1,7 @@
 
-# find-value [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/find-value.svg)](https://www.npmjs.com/package/find-value) [![Downloads](https://img.shields.io/npm/dt/find-value.svg)](https://www.npmjs.com/package/find-value) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# find-value
+
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/find-value.svg)](https://www.npmjs.com/package/find-value) [![Downloads](https://img.shields.io/npm/dt/find-value.svg)](https://www.npmjs.com/package/find-value) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Find object values by passing the path as string.
 
@@ -72,6 +74,7 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`lien`](https://github.com/LienJS/Lien)—Another lightweight NodeJS framework. Lien is the link between request and response objects.
  - [`np-init`](https://github.com/IonicaBizau/np-init#readme)—Easily start a npm package from scratch.
  - [`packy`](https://github.com/IonicaBizau/packy#readme)—Set default fields in your package.json files.
+ - [`ship-release`](https://github.com/IonicaBizau/ship-release#readme)—Publish new versions on GitHub and npm with ease.
 
 ## :scroll: License
 
