@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save find-value
+# Using npm
+npm install --save find-value
+
+# Using yarn
+yarn add find-value
 ```
 
 
