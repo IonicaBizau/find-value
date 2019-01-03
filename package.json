@@ -1,6 +1,6 @@
 {
   "name": "find-value",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Find object values by passing the path as string.",
   "main": "lib/index.js",
   "directories": {
