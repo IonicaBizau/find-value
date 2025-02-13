@@ -1,6 +1,6 @@
 {
   "name": "find-value",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Find object values by passing the path as string.",
   "main": "lib/index.js",
   "directories": {
@@ -36,6 +36,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
